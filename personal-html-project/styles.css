@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  font-style: inherit;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+h2 {
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+h3 {
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+h4 {
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+
+p {
+  font-family: monospace;
+  font-size: 13;
+  color: #95958e
+}
+
+nav a {
+  background-color: transparent;
+  font-family: monospace;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.7s;
+  text-decoration: none;
+}
+
+nav a:hover {
+background-color: grey;
+}
+
+
+.cat {
+  border-radius: 50%;
+  margin-top: 150px;
+}
+
+.selfie-one {
+  border-radius: 5%;
+}
